@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "parcel": "^2.10.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactdom": "^2.0.0"
+  },
+  "name": "new-react",
+  "version": "1.0.0",
+  "description": "Practice react",
+  "scripts": {
+    "main": "app.js",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p3g-18/rrrreacttttt.git"
+  },
+  "keywords": [
+    "react",
+    "practice"
+  ],
+  "author": "pg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p3g-18/rrrreacttttt/issues"
+  },
+  "homepage": "https://github.com/p3g-18/rrrreacttttt#readme",
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 2 chrome versions"
+  ]
+}
